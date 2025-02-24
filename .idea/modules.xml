@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/arrays-tute1/arrays-tute1.iml" filepath="$PROJECT_DIR$/arrays-tute1/arrays-tute1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditions and loops/conditions and loops.iml" filepath="$PROJECT_DIR$/conditions and loops/conditions and loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/functions-tute1/functions-tute1.iml" filepath="$PROJECT_DIR$/functions-tute1/functions-tute1.iml" />
       <module fileurl="file://$PROJECT_DIR$/tute1.iml" filepath="$PROJECT_DIR$/tute1.iml" />
     </modules>
